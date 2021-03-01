@@ -1,0 +1,5 @@
+1. Запушил проект на GitHub 
+2. Зарегистрировался в heroku и подтвердил почту  
+3. Авторизировался в heroku (heroku login => переход по ссылке => подтверждение)
+4. Создал проект на heroku (heroku create) - на сайте heroku появилась папка проекта (https://dashboard.heroku.com/apps)
+5. Проверил, установлена ли связка с git (git remote  -v)
